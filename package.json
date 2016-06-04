@@ -1,0 +1,22 @@
+{
+  "name": "l02-web-server",
+  "version": "1.0.0",
+  "description": "API service that sorts numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lits-nodejs-course/l02-web-server.git"
+  },
+  "author": "Taras Kunch <taras.kunch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lits-nodejs-course/l02-web-server/issues"
+  },
+  "homepage": "https://github.com/lits-nodejs-course/l02-web-server#readme",
+  "dependencies": {
+    "l02-sorting": "git+https://github.com/lits-nodejs-course/l02-sorting.git"
+  }
+}
